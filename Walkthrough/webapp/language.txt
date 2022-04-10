@@ -1,0 +1,19 @@
+showHelloButtonText = Say Hi
+helloMsg = Hello Shopnil {0}
+
+# App Descriptor
+appTitle=Hello World
+appDescription=A simple walkthrough app that explains the most important concepts of SAPUI5
+
+homePageTitle=Walkthrough
+helloPanelTitle=Hello World
+
+openDialogButtonText= Instractions
+dialogCloseButtonText=ok
+dialogQoute= Price above 50, will be red.
+
+# invoice Items
+invoiceListTitle=Invoices
+invoiceStatusA=New
+invoiceStatusB=In Progress
+invoiceStatusC=Done
